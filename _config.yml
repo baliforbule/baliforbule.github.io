@@ -25,7 +25,7 @@ authors:
     patrick:
       name:           Patrick
       site:           ''
-      avatar:         ''
+      avatar:         assets/images/avatar_patrick.png
       bio:            "Hi, I'm Patrick, the author of 'Bali for Bule'. I hope you like it!"
       email:          'info@baliforbule.com'
       twitter:        ''
