@@ -1,0 +1,242 @@
+---
+layout: post
+title:  Food
+categories: [ Baliforbule ]
+image: # assets/images/mountagung.jpg
+---
+
+Write some sentences about the food here.
+For example about the difference between Balinese and the remaining Indonesian food.
+
+### Noodles
+
+* Mie Ayam
+
+  _TODO_
+
+* Mie Goreng
+
+  _Fried noodles with variety of options, like plain (biasa), vegetables, chicken, seafood etc._
+
+### Rice
+
+* Nasi Jinggo / Nasi Kucing
+
+  _In Bali called Nasi Jinggo, in Java called Nasi Kucing;_
+  _small portion of rice, usually with shredded chicken, boiled egg, noodles and sambal._
+
+* Nasi Goreng (Fried rice)
+
+  _Fried rice with variety of options, like plain (biasa), vegetables, chicken, seafood etc._
+
+* Nasi Campur (Mixed rice)
+
+  _..._
+
+* Nasi Padang
+
+  _Difference to Nasi Campur is ..._
+  _Rendang_
+
+### Meat
+
+* Bakso (Meatballs)
+
+  _Meat balls make from chicken, pork, cow_
+
+* Satay
+
+  _Also informally called sate, usually chicken, pork, rabbit, goat, and sometimes even dog._
+  _Some restaurants might have vegetarian options with mushrooms, ..._
+
+* Babi Guling
+
+  _Different parts of pork like skin, belly,_
+
+* Bubur Ayam (Chicken porridge)
+
+  _Porridge with chicken, chips, peanuts, roasted onions._
+  _People usually add chicken broth, soy sauce and sambal._
+
+* Bubur Bali
+
+  _TODO_
+
+### Fish
+
+* Ikan Bakar (Grilled fish)
+
+  _Grilled fisn._
+  _Jimbaran can go fish market and ask one of the places nearby to grill it._
+
+### Vegetarian
+
+* Tipat Cantok
+
+  _Similar like Gado-Gado, see below._
+
+* Gado-Gado
+
+  _Cold dish usually with eggs, spinach, .. and peanut sauce._
+
+### Soups
+
+* Soto
+
+  _Soup with variety of options, like chicken, goat, cow, sometimes frog._
+
+* Rawon
+
+  _..._
+
+### Snacks
+
+* Martabak / Terang Bulan
+
+  _Savory version with eggs and chicken._
+  _Sweet version (Martabak Manis) with ..., sometimes also called Terang Bulan._
+  _Rarely also as a crispy variant_
+
+### Side dishes / extras
+
+* Sambal (Chili sauce / paste)
+
+  _Chili sauce or paste._
+  _Many Indonesian also cannot handle it but will never admit that._
+  _As a foreigner never claim to eat more spicy than a local._
+
+* Telur (Eggs)
+
+  * Telur goreng: fried egg, telur goreng ceplok for explicitly sunny side up)
+  * Telur dadar: also fried egg, more like an omlette)
+  * Telur rebus: boiled egg)
+  * Telur puyuh: quail egg)
+  * Telur ayam kampung:fresh kampung egg)
+
+* Kerupuk (Crisps / chips)
+
+  _Usually with shrimp flavor._
+  _Most indonesians like to eat them to any food, but they are most famous with dishes like Bubur or Nasi Goreng,_
+
+* Tempe (Tempeh)
+
+  _Made from soya beans_
+
+* Tahu (Tofu)
+
+  _Made from soya_
+
+* Bakwan Jagung (Corn fritters)
+
+  _..._
+
+* Urap
+ 
+  _... with shredded coconut_
+
+* Pepes
+
+  _Wrapped in banana leaf, then steamed or grilled._
+
+### Cap cay
+
+### Fuyung hai
+
+## Useful sentences
+
+##
+
+### Dog meat
+
+Rumors say, sometimes restaurants use dog meat if they cannot affort chicken.
+Some restaurants explicitly use dog meat and usually have the abbreviation RW (rintek wuuk = soft fur) in their name.
+
+
+## Fruits
+
+* Kelapa (Coconut)
+
+  _Famous at sunsets._
+  _The older ones have more coconut meat inside, but the meat also becomes harder._
+  _Many locals sell "Es Kelapa" which is just the coconut water with ice, usually packed in a plastic cup with a plastic straw._
+  _The environmental friendly way is to buy a chilled whole coconut and to use a paper, metal or bamboo straw._
+
+* Mangga (Mango)
+
+  _Different types like sweet, sour,_
+  _Mango season is usually going from ..._
+
+* Durian
+
+  _Also called "stinky fruit"._
+  _For most people, you either hate or love them._
+  _Many airlines explicitly restrict passengers from bringing them into the cabin._
+  _Durian season is usually going from ..._
+
+TODO: Picture from Singapore airport with "Durian forbidden" sign 
+
+* Nangka (Jackfruit)
+
+  _Jackfruit season is usually going from ..._
+
+* Buah Naga (Dragonfruit)
+
+  _Mostly red version_
+
+* Salak (Snakefruit)
+
+  _Name given by the structure of the skin._
+
+* Rambutan
+
+  _..._
+  _The taste reminds of Lychee._
+  _There is green and red version, the red one is more sweet._
+
+* 
+
+* Manggis (Mangosteen)
+
+  _..._
+
+* Jeruk Bali (Pomelo)
+
+  _Tastes similar like a tangerine, but is green on the outside._
+
+* Jambu (Guava)
+
+  _..._
+
+* Stroberi (Strawberry)
+
+  _Strawberry fields in central Bali._
+  _As all berrys, Strawberries are quite expensive, smaller and more sour than in western countries._
+
+* Semangka (Watermelon)
+
+  _..._
+
+* Belimbing (Starfruit)
+
+* Jeruk (Orange)
+
+* Pisang (Banana)
+
+* Pepaya (Papaya)
+
+* Apel (Apple)
+
+* Pir (Pear)
+
+* Alpukat (Avocado)
+
+
+## Vegetables
+
+* Kentang (Potatoe)
+
+* Bayam (Spinach)
+
+* Kangkung (Water Spinach)
+
+  _..._
